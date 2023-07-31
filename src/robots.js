@@ -50,7 +50,7 @@ export const robots = [
     {
         id: 7,
         name: 'Jasmin',
-        username: 'stoney',
+        username: 'buddy',
         email: 'jasmin@gmail.com'
     },
     {
